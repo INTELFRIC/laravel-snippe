@@ -1,6 +1,5 @@
 {
     "name": "intelfric-technology/laravel-snippe",
-    "version": "1.0.3",
     "description": "A Laravel package for integrating Snippe Tanzania payment gateway — Mobile Money, Cards, and QR payments.",
     "keywords": ["laravel", "snippe", "payment", "tanzania", "mobile-money", "mpesa", "airtel"],
     "homepage": "https://github.com/intelfric-technology/laravel-snippe",
